@@ -1,0 +1,3 @@
+boto3
+face_recognition
+ffmpeg

@@ -1,0 +1,85 @@
+{
+	"StudentData2": [
+		{
+	  		"PutRequest": {
+	  			"Item": {
+	      			"name": {"S": "mr_bean"},
+                    "id": {"N": "1"},
+	      			"major": {"S": "lawyer"},
+	      			"year": {"S": "freshmen"}
+	      			}
+	      		}
+	    },
+	    
+		{
+	  		"PutRequest": {
+	  			"Item": {
+	      			"name": {"S": "president_biden"},
+                    "id": {"N": "2"},
+	      			"major": {"S": "history"},
+	      			"year": {"S": "sophomore"}
+	      			}
+	      		}
+	    },
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {"S": "vin_diesel"},
+                    "id": {"N": "3"},
+                    "major": {"S": "computer_science"},
+                    "year": {"S": "sophomore"}
+                    }
+                }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {"S": "floki"},
+                    "id": {"N": "4"},
+                    "major": {"S": "history"},
+                    "year": {"S": "junior"}
+                    }
+                }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {"S": "president_trump"},
+                    "id": {"N": "5"},
+                    "major": {"S": "physics"},
+                    "year": {"S": "junior"}
+                    }
+                }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {"S": "morgan_freeman"},
+                    "id": {"N": "6"},
+                    "major": {"S": "math"},
+                    "year": {"S": "senior"}
+                    }
+                }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {"S": "president_obama"},
+                    "id": {"N": "7"},
+                    "major": {"S": "electrical_engineering"},
+                    "year": {"S": "senior"}
+                    }
+                }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {"S": "johnny_dep"},
+                    "id": {"N": "8"},
+                    "major": {"S": "computer_science"},
+                    "year": {"S": "senior"}
+                    }
+                }
+        }
+	]
+}
